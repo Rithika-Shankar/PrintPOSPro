@@ -280,9 +280,5 @@ LARAVEL_CHATBOT_API_URL=http://your-laravel-backend/chatbot
 - Laravel Chatbot UI for the conversational interface.
 - Vultr for cloud hosting and transcription services.
 - Open Source libraries used in this project.
-  ```bash 
-  This code snippet includes the sections you provided, formatted for a README file, with the correct license (GPL v3) as 
-  requested.
-   ```
 
   
